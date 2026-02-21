@@ -3,7 +3,7 @@ File: main.py
 Chức năng:
 - Hiển thị menu
 - Nhận lựa chọn người dùng
-- Gọi các hàm xử lý từ product_manager
+- Gọi các hàm xử lý từ product_manager 
 """
 
 from manager import *
@@ -11,7 +11,7 @@ from manager import *
 def menu():
     print("\n====== POLY-LAP MANAGER ======")#dòng đầu tiên của menu
     print("1. Hiển thị sản phẩm")# # Update giao dien lan 1
-    print("2. Thêm sản phẩm")
+    print("2. Thêm sản phẩm") #ahahahah
     print("3. Sửa sản phẩm")
     print("4. Xóa sản phẩm")
     print("5. Tìm theo tên")
