@@ -85,7 +85,7 @@ def delete_product(products): # hàm xóa sản phẩm
     print("❌ Không tìm thấy sản phẩm!")
     return products
 
-def search_product_by_name(products): # hàm tìm kiếm sản phẩm
+def search_product_by_name(products): # # Toi uu ham tim kiem
     print("\n🔍 TÌM KIẾM")
     keyword = input("Nhập từ khóa: ").lower()#(Dùng .lower() để tìm ko phân biệt hoa thường)
 
