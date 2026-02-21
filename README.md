@@ -16,3 +16,4 @@ Hệ thống quản lý sản phẩm cơ bản được xây dựng bằng ngôn
 ## 🛠 Hướng dẫn sử dụng
 1. Đảm bảo máy đã cài đặt Python 3.
 2. Chạy chương trình bằng lệnh: `python main.py`
+Hoan thanh Assignment
