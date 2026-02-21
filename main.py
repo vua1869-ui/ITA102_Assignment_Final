@@ -9,7 +9,7 @@ Chức năng:
 from manager import *
 
 def menu():
-    print("dang sua loi")
+    print("-------------------")
     print("\n====== POLY-LAP MANAGER ======")
     print("1. Hiển thị sản phẩm")
     print("2. Thêm sản phẩm")
