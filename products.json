@@ -26,5 +26,12 @@
         "brand": "win",
         "price": 20000000,
         "quantity": 1
+    },
+    {
+        "id": "LT05",
+        "name": "laptop4",
+        "brand": "win",
+        "price": 20000000,
+        "quantity": 1
     }
 ]
