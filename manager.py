@@ -11,7 +11,7 @@ import json
 FILE_NAME = "products.json"
 
 # ------------------ FILE ------------------
-def load_data():# hàm đọc sữ liệu 
+def load_data():# Ham doc du lieu tu file JSON
     """Đọc dữ liệu từ file JSON"""
     try:
         with open(FILE_NAME, "r", encoding="utf-8") as f:
