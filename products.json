@@ -1,0 +1,30 @@
+[
+    {
+        "id": "LT01",
+        "name": "ip17",
+        "brand": "hihihi",
+        "price": 30000000,
+        "quantity": 2
+    },
+    {
+        "id": "LT02",
+        "name": "laptop1",
+        "brand": "lenovo",
+        "price": 18000000,
+        "quantity": 1
+    },
+    {
+        "id": "LT03",
+        "name": "laptop2",
+        "brand": "windonw",
+        "price": 19000000,
+        "quantity": 1
+    },
+    {
+        "id": "LT04",
+        "name": "laptop3",
+        "brand": "win",
+        "price": 20000000,
+        "quantity": 1
+    }
+]
