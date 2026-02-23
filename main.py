@@ -46,3 +46,5 @@ if __name__ == "__main__":
     main()#  demo commit lan 1 ở nhà
     # demo commit lan 2 ở nhà
     # sua lai lan 1  
+
+- nhanh cua link
