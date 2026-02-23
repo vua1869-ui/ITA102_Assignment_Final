@@ -14,7 +14,7 @@ def menu():
     print("2. Thêm sản phẩm") #ahahahah
     print("3. Sửa sản phẩm") # skuvhnsdsbeoi
     print("4. Xóa sản phẩm")#sgvnlivn
-    print("5. Tìm theo tên")
+    print("5. Tìm theo tên")#thu lan nưa 
     print("0. Thoát")
     print("=============================")
 
