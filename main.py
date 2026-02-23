@@ -12,8 +12,8 @@ def menu():
     print("\n====== POLY-LAP MANAGER ======")#dòng đầu tiên của menu
     print("1. Hiển thị sản phẩm")# # Update giao dien lan 1
     print("2. Thêm sản phẩm") #ahahahah
-    print("3. Sửa sản phẩm")
-    print("4. Xóa sản phẩm")
+    print("3. Sửa sản phẩm") # skuvhnsdsbeoi
+    print("4. Xóa sản phẩm")#sgvnlivn
     print("5. Tìm theo tên")
     print("0. Thoát")
     print("=============================")
